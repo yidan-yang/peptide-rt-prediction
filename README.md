@@ -28,6 +28,14 @@ For the Transformer model, peptide sequences are tokenized into numerical repres
 
 ## Results
 
+### Retention time EDA
+The following figure shows the distributions of peptide retention times and sequence lengths in the training dataset.
+
+![Peptide Retention Time and Length Distribution](results/EDA_RT_exploration.png)
+
+**Figure 1.** Distribution of peptide retention times and sequence lengths in the AutoRT training dataset.
+
+### Model comparison
 Model comparisons and prediction visualizations will be added here.
 
 ## My Thoughts
