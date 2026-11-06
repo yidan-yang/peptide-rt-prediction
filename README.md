@@ -32,7 +32,7 @@ Model comparisons and prediction visualizations will be added here.
 
 ## My Thoughts
 
-This project is an opportunity to explore how machine learning methods can be applied to biological sequence data.
+This side project is for exploring how machine learning methods can be applied to biological sequence data.
 
 One question I am particularly interested in is whether the additional complexity of Transformer models leads to meaningful improvements over traditional machine learning methods.
 
